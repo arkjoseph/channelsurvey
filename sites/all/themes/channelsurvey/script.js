@@ -22,7 +22,7 @@ Drupal.jsAC.prototype.populatePopup = function () {
   this.db.owner = this;
   
   // Custom condition to check for 3 characters prior to Popup autocomplete
-  if ($(".view input").val().length >= 3) {
+  if ($(".view input").val().length >= 2) {
  //     console.log("mark this");
      this.db.search(this.input.value);
   }
@@ -47,33 +47,36 @@ $(function(){
 
     $.fn.initSubmit = function(){
 	   if ($(this).val().length >= 3) {
-	       $("button#edit-submit-channel-search-field").submit();
-	       console.log("submit now!");
+	    //   console.log("submit now!");
+	       $("button#edit-submit-channel-search-field").submit();		   
+	       setTimeout(function() {
+		   $(".searchHere").addClass("initCboxContent");
+	       },1000);
 	   } else if (!$.trim(this.value).length){
 //	       $(".searchHere").removeClass("initCboxContent");
-	       console.log("sorry!");
 	       $(s).attr("disabled", "disabled");
-	   } else {
-	       console.log("not enough characters");
+//	       console.log("sorry!");
+	   } else  {
 	       $(s).attr("disabled", "disabled");
+//	       console.log("not enough characters");
 	   }
       	    return false;
     }
     // Submit the form and initialize colorbox function. 
     $(fieldData).change(function() {
 	$(this).initSubmit();
+
 	// Colorbox init with timeout delay
 	setTimeout(function() {
 	    // Open colorbox only if condition == false
 	    if ($(".view-empty").length) {
 		return false;
 //		console.log("true");
-	    } else {
-		$(".searchHere").addClass("initCboxContent");
+	    } else if ($(fieldData).val().length >= 3){
 		$(this).cboxInit();
 //		console.log("false");
 	       }
-	}, 1000);
+	}, 2500);
     });
     
     // Populate option array from all pull down menus
@@ -125,8 +128,8 @@ $(function(){
 });
 
 $(document).ajaxStart(function(e, xhr, settings){
-    $("body").addClass("wait");
-    console.log("ajax start");
+//    $("body").addClass("wait");
+//    console.log("ajax start");
 });
 
 
@@ -142,19 +145,18 @@ $(document).ajaxComplete(function(e, xhr, settings) {
 	    
 	    // Submit the form and initialize colorbox function. 
 	    $(fieldData).change(function() {
-		$(this).initSubmit();
 		// Colorbox init with timeout delay
+		$(this).initSubmit();
 		setTimeout(function() {
 		    // Open colorbox only if condition == false
 		    if ($(".view-empty").length) {
 			return false;
 //			console.log("true");
-		    } else {
-			$(".searchHere").addClass("initCboxContent");
+		    } else if ($(fieldData).val().length >= 3){
 			$(this).cboxInit();
 //			console.log("false");
 		       }
-		}, 1000);
+		}, 2500);
 	    });
 
 	    // Populate option array from all pull down menus
@@ -177,7 +179,7 @@ $(document).ajaxComplete(function(e, xhr, settings) {
 	    // Submit view form on mouse click selection
 	    $(".reference-autocomplete").live("click", function(){
 		       $("button#edit-submit-channel-search-field").submit();
-		       console.log("submit now!");
+//		       console.log("submit now!");
 
 			setTimeout(function() {
 			    // Open colorbox only if condition == false
@@ -189,7 +191,7 @@ $(document).ajaxComplete(function(e, xhr, settings) {
 				$(this).cboxInit();
 //				console.log("false");
 			       }
-			}, 1000);
+			}, 2000);
 	    });
 
 	    
@@ -208,7 +210,7 @@ $(document).ajaxComplete(function(e, xhr, settings) {
 });
 
 $(document).ajaxStop(function(e, xhr, settings){
-    $("body").removeClass("wait");
+//    $("body").removeClass("wait");
 //    console.log("ajax end");
 
     

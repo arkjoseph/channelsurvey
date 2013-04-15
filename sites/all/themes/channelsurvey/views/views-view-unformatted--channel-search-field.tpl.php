@@ -1,5 +1,4 @@
 <!------ Modal Area ------->
-<div class="">
 	<!-- Header Copy Block -->
 	<p class="resultsHeader">
 		Channel and programming availability subject to change without notice. Channels not available in all areas. To see the most recent channel listings in your area click below. 
@@ -31,4 +30,3 @@
 	<br>
 	
 	<div class="form-links avail"><button class="searchZip" href="http://www.att.com/channellineup"><span class="input-submit-span">Check Availability</span></button></div>
-</div>
