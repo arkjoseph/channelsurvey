@@ -1,0 +1,6 @@
+; $Id: $
+
+name = views_channel_search Export Module
+description = Channel Search Field views_channel_search
+dependencies[] = views
+core = 6.x

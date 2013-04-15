@@ -1,0 +1,18 @@
+; Modified 4-11-2013
+; ------------------
+name		= channelsurvey
+description	= channelsurvey
+screenshot	= css/images/screenshot.png
+project = "channelsurvey"
+version = "6.x-1.0"
+core = "6.x"
+engine = phptemplate
+
+stylesheets[all][] = css/reset.css
+stylesheets[all][] = css/style.css
+
+scripts[] = script.js
+scripts[] = ../../../default/files/scripts-and-libraries/colorbox/jquery.colorbox.js
+scripts[] = ../../../default/files/scripts-and-libraries/menu/jquery-ui-1.7.3.custom.min.js
+scripts[] = ../../../default/files/scripts-and-libraries/menu/ui.core.min.js
+scripts[] = ../../../default/files/scripts-and-libraries/menu/ui.selectmenu.js

@@ -1,0 +1,159 @@
+<?php
+// $Id: views_autocomplete_filters.module,v 1 vasike Exp $ 
+/**
+ * Implementation of hook_menu().
+ */
+function views_autocomplete_filters_menu() {
+ $items = array();
+ $items['autocomplete_filter'] = array(
+	 'title' => 'Autocomplete Filters',
+	 'page callback' => 'views_autocomplete_filter',
+	 'access arguments' => array('access content'),
+	 'file' => 'views_autocomplete_filters.inc',
+	 'type' => MENU_CALLBACK,
+ );
+ return $items;
+}
+
+/**
+ * Implementation of hook_views_api().
+ */
+function views_autocomplete_filters_selective_views_api() {
+  return array(
+    'api' => 2.0,
+  );
+}
+
+/**
+ * Implementation of hook_form_FORMID_alter() for views_exposed_form.
+ */
+function views_autocomplete_filters_form_views_exposed_form_alter(&$form, $form_state) {
+  // Go through each filter checking for a 'selective' setting
+  foreach ($form_state['view']->filter as $field => $filter) {
+    if ($filter->options['exposed']) {
+      $expose_options = $filter->options['expose'];
+			 // If using selective filters, filter the value_options based on view results
+      if ($expose_options['autocomplete_filter']) {
+				unset($form[$field_id]['#default_value']);
+				$field_id = $form['#info']["filter-$field"]['value'];
+				$form[$field_id]['#autocomplete_path'] = 'autocomplete_filter/'.$field.'/'.$form_state['view']->name.'/'.$form_state['view']->current_display;
+        
+        // Add class and post-render function for dependent autocomplete.
+        if (!empty($expose_options['autocomplete_dependent'])) {
+          $form[$field_id]['#post_render'][] = '_views_autocomplete_filters_dependent_post_render';
+          
+          $classes = array('views-ac-dependent-filter');
+          if (isset($form[$field_id]['#attributes']['class'])) {
+            $classes[] = $form[$field_id]['#attributes']['class'];
+          }
+          $form[$field_id]['#attributes']['class'] = implode(' ', $classes);
+        }
+			}
+    }
+  }
+}
+
+/**
+ * Adds JS with override for core autocomplete search function to make
+ * dependent autocomplete possible. It is important to add custom JS file
+ * after core file was added (theme_textfield adds it).
+ */
+function _views_autocomplete_filters_dependent_post_render($content, $element) {
+  drupal_add_js(drupal_get_path('module', 'views_autocomplete_filters') . '/js/views-autocomplete-filters-dependent.js');
+  return $content;
+}
+
+/**
+ * Implementation of hook_form_FORMID_alter() for views_ui_config_item_form.
+ */
+function views_autocomplete_filters_form_views_ui_config_item_form_alter(&$form, $form_state) {
+  if ('2' != substr(views_api_version(), 0, 1)) {
+    // Only continue for Views 2.x
+    return;
+  }
+	
+	if ($form['options']['value']['#type']!='textfield') {
+		return;
+  }
+
+  if (empty($form['options']['expose'])) {
+    return;
+  }
+	
+  $options_defaults = array(
+    'autocomplete_filter' => FALSE,
+    'autocomplete_items' => 10,
+    'autocomplete_field' => $form_state['id'], // Try the same name by default
+    'autocomplete_raw_suggestion' => TRUE,
+    'autocomplete_raw_dropdown' => TRUE,
+    'autocomplete_dependent' => FALSE,
+  );
+  foreach ($options_defaults as $option => $default) {
+    if (isset($form_state['handler']->options['expose'][$option])) {
+      $options_defaults[$option] = $form_state['handler']->options['expose'][$option];
+    }
+  }
+
+  $field_options = $form_state['view']->display_handler->get_field_labels();
+  if (empty($field_options)) {
+    $field_options[''] = t('<Add some fields to view>');
+  }
+  
+	// Build form elements for the right side of the exposed filter form
+	$left = array(
+    'autocomplete_filter' => array(
+      '#type' => 'checkbox',
+      '#title' => t('Use Autocomplete'),
+      '#default_value' => $options_defaults['autocomplete_filter'],
+      '#description' => t(
+        'Use Autocomplete for this filter.'
+      ),
+    ),
+    'autocomplete_items' => array(
+      '#type' => 'textfield',
+      '#title' => t('Maximum number of items in Autocomplete'),
+      '#default_value' => $options_defaults['autocomplete_items'],
+      '#description' => t('Enter 0 for no limit.'),
+      '#process' => array('views_process_dependency'),
+      '#dependency' => array('edit-options-expose-autocomplete-filter' => array(TRUE)),
+    ),
+    'autocomplete_dependent' => array(
+      '#type' => 'checkbox',
+      '#title' => t('Suggestions depend on other filter fields'),
+      '#default_value' => $options_defaults['autocomplete_dependent'],
+      '#description' => t('Autocomplete suggestions will be filtered by other filter fields'),
+      '#process' => array('views_process_dependency'),
+      '#dependency' => array('edit-options-expose-autocomplete-filter' => array(TRUE)),
+    ),
+    'autocomplete_field' => array(
+      '#type' => 'select',
+      '#title' => t('Field with autocomplete results'),
+      '#default_value' => $options_defaults['autocomplete_field'],
+      '#options' => $field_options,
+      '#description' => t('Selected field will be used for dropdown results of autocomplete. In most cases it should be the same field you use for filter.'),
+      '#process' => array('views_process_dependency'),
+      '#dependency' => array('edit-options-expose-autocomplete-filter' => array(TRUE)),
+    ),
+    'autocomplete_raw_dropdown' => array(
+      '#type' => 'checkbox',
+      '#title' => t('Unformatted dropdown'),
+      '#default_value' => $options_defaults['autocomplete_raw_dropdown'],
+      '#description' => t('Use unformatted data from database for dropdown list instead of field formatter result. Value will be printed as plain text.'),
+      '#process' => array('views_process_dependency'),
+      '#dependency' => array('edit-options-expose-autocomplete-filter' => array(TRUE)),
+    ),
+    'autocomplete_raw_suggestion' => array(
+      '#type' => 'checkbox',
+      '#title' => t('Unformatted suggestion'),
+      '#default_value' => $options_defaults['autocomplete_raw_suggestion'],
+      '#description' => t('The same as above, but for suggestion (text appearing inside textfield when item is selected).'),
+      '#process' => array('views_process_dependency'),
+      '#dependency' => array('edit-options-expose-autocomplete-filter' => array(TRUE)),
+    ),
+  );
+
+	// Insert Autocomplete Filter checkbox
+	$expose = $form['options']['expose'];
+	$first_chunk = array_splice($expose, 0, array_search('end_left', array_keys($expose)));
+	$form['options']['expose'] = array_merge($first_chunk, $left, $expose);
+}

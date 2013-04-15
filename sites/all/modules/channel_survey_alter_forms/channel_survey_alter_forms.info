@@ -1,0 +1,7 @@
+; $Id: contact.info,v 1.0 2010/05/05 15:01:54 lhornback Exp $
+name = Channel Survey Alter Forms
+description = Customizes forms for use with Channel Survey
+package = Channel Survey Alter Forms
+core = 6.x
+
+version = "6.x-1.0"

@@ -1,0 +1,15 @@
+Webform Module
+	## 1 ##
+	select.inc line 155
+		Internal function _webform_render_select
+			Changed "select..." text to be configurable based on the description on the form creation page. 
+
+	Also relies on this in CSS:
+		.webform-component-select .description {display: none;}
+		
+
+Drupal Core
+	## 1 ##
+	includes/form.inc line 686
+		Changed set error message from calling out specific elements to generic error message (matching att.com forms)
+		

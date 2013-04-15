@@ -1,0 +1,46 @@
+<?php
+/**
+ * Implementation of hook_form_alter().
+ *
+ * The function is named modulename_form_alter.
+ */
+function channelsurvey_alter_forms_form_alter(&$form, $form_state, $form_id) {
+
+	// Normally a switch is used because you may want to alter more than
+	// one form and it is easy to add a new case for each form. Switch on form ID.
+	switch ($form_id) {
+		// Contact form
+		case 'contact_mail_page':
+			$form['subject']['#required'] = FALSE;
+			unset($form['subject']);
+
+			$form['name']['#required'] = FALSE;
+			unset($form['name']);
+
+			$form['message']['#required'] = FALSE;
+
+
+			unset($form['copy']);
+
+			$form_state['redirect'] = '/contact';
+		
+			$form['#submit'][] = 'channelsurvey_alter_forms_contact_submit';
+			
+			$form['#ajax'] = array(
+				'enabled' => TRUE
+			);
+		
+		break;
+
+		// Reset password
+		// case 'user-pass':
+		
+			
+
+		// Another form
+		// case 'contact_mail_page':
+			// 	//
+		// break;
+
+	}
+}

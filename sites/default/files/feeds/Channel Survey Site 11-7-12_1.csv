@@ -1,0 +1,650 @@
+Viewer Channel,Channel Name,Call Letters (EPG),SD/HD,Channel Type,Blackout Required?,Channel Acquisition,U-FAM,U100,U200,U300,U400,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Video On Demand Store Front,VIDEO,Non-Stnd,VOD,NO,National,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+2,KCWX-2 (MY NETWORK TV),KCWX,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+4,WOAI-4 (NBC),WOAI,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+5,KENS-5 (CBS),KENS,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+6,HSN,HSN,SD,Dual,NO,National,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+8,KWEX-8 (UNI),KWEX,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+9,KLRN-9 (PBS),KLRN,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+11,QVC,QVC,SD,Dual,NO,National,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+12,KSAT-12 (ABC),KSAT,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+17,KNIC-17 (TF),KNIC,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+23,KHCE-23 (TBN),KHCE,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+26,KPXL-26 (ION),KPXL,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+29,KABB-29 (FOX),KABB,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+31,KVDF-31 (AZTECA),KVDF,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+35,KMYS-35 (THE CW),KMYS,SD,Linear,NO,Local,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,
+37,As Seen On TV,ASO TV,SD,Linear,NO,National,YES,YES,YES,YES,YES
+60,KVDA-60 (TEL),KVDA,SD,Linear,NO,Local,YES,YES,YES,YES,YES
+82,Valu TV,ValuTV,SD,Linear,NO,National,YES,YES,YES,YES,YES
+84,AT&T U-verse Shopping 1,USHOP1,SD,Linear,NO,National,YES,YES,YES,YES,YES
+86,Tasty Holiday Recipes,,APP,APP,NO,National,YES,YES,YES,YES,YES
+87,AT&T U-verse with Cisco Technology,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+91,Flickr from Yahoo!,,APP,APP,NO,National,YES,YES,YES,YES,YES
+92,AT&T Yahoo! Games,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+93,U-verse Games Channel,APP,APP,APP,NO,National,,,,,
+97,YP.COM_TV_MPF,,APP,APP,NO,National,YES,YES,YES,YES,YES
+99,PEG Education and Government - Public,,APP,APP,NO,Local,YES,YES,YES,YES,YES
+100,AT&T U-verse Front Row,FRTROW,HD,Linear,NO,National,YES,YES,YES,YES,YES
+101,AT&T Pay Per View Schedule,PPVSCH,IMAGE,Linear,NO,National,YES,YES,YES,YES,YES
+102,AT&T Pay Per View Events,PPV1,SD,PPV,NO,National,,,,,
+103,AT&T Pay Per View Events 2,PPV2,SD,PPV,NO,National,,,,,
+104,AT&T Pay Per View Events 3,PPV3,SD,PPV,NO,National,,,,,
+106,PPV HD,PPV HD,HD,PPV,NO,National,,,,,
+107,PPV2 HD,PPV2HD,HD,PPV,NO,National,,,,,
+108,TNT (Turner Network Television),TNT,SD,Linear,YES,National,,YES,YES,YES,YES
+109,TNT - West,TNT-W,SD,Linear,YES,National,,YES,YES,YES,YES
+112,TBS,TBS,SD,Linear,YES,National,,YES,YES,YES,YES
+113,TBS - West,TBS-W,SD,Linear,YES,National,,YES,YES,YES,YES
+118,Smithsonian Channel,SMTH,SD,Linear,NO,National,,,,YES,YES
+120,Discovery Channel,DSC,SD,Linear,NO,National,,YES,YES,YES,YES
+124,USA Network,USA,SD,Linear,YES,National,,YES,YES,YES,YES
+128,FX,FX,SD,Linear,YES,National,,YES,YES,YES,YES
+132,A&E,A&E,SD,Linear,NO,National,,YES,YES,YES,YES
+134,E! Entertainment,E!,SD,Linear,NO,National,,YES,YES,YES,YES
+138,TV Land,TVLD,SD,Linear,NO,National,,YES,YES,YES,YES
+140,Comedy Central,COM,SD,Linear,NO,National,,YES,YES,YES,YES
+145,Spike TV,SPKE,SD,Linear,NO,National,,YES,YES,YES,YES
+149,G4,G4,SD,Linear,NO,National,,,YES,YES,YES
+151,Syfy,Syfy,SD,Linear,NO,National,,YES,YES,YES,YES
+153,Chiller,CHILL,SD,Linear,NO,National,,,YES,YES,YES
+155,BET,BET,SD,Linear,NO,National,,YES,YES,YES,YES
+157,TV One,TV 1,SD,Linear,NO,National,,,YES,YES,YES
+161,cloo,CLOO,SD,Linear,NO,National,,,YES,YES,YES
+163,Crime & Investigation Network,CIN,SD,Linear,NO,National,,,YES,YES,YES
+164,truTV,TRU,SD,Linear,NO,National,,YES,YES,YES,YES
+165,truTV - West,TRU-W,SD,Linear,NO,National,,YES,YES,YES,YES
+170,OWN: Oprah Winfrey Network,OWN,SD,Linear,NO,National,,,YES,YES,YES
+173,GSN - Game Show Network,GSN,SD,Linear,NO,National,,,YES,YES,YES
+178,ABC Family,FAM,SD,Linear,NO,National,,YES,YES,YES,YES
+180,WGN America,WGN,SD,Linear,YES,National,,YES,YES,YES,YES
+181,Bravo,BRAVO,SD,Linear,NO,National,,YES,YES,YES,YES
+183,LOGO,LOGO,SD,Linear,NO,National,,,YES,YES,YES
+188,BBC America,BBCA,SD,Linear,NO,National,,,YES,YES,YES
+189,Current TV,CURNT,SD,Linear,NO,National,,,,YES,YES
+191,tlnovelas,TLNOV,SD,Linear,NO,National,,,,,
+192,mun2,MUN2,SD,Dual,NO,National,,,YES,YES,YES
+194,nuvoTV,nuvoTV,SD,Linear,NO,National,,,YES,YES,YES
+196,BuyIt,BUYIT,SD,Linear,NO,National,YES,YES,YES,YES,YES
+197,Jewelry TV,JWLTV,SD,Dual,NO,National,YES,YES,YES,YES,YES
+198,AT&T U-verse Shopping 4,USHOP4,SD,Dual,NO,National,YES,YES,YES,YES,YES
+199,Offers On Demand,,APP,APP,NO,National,YES,YES,YES,YES,YES
+200,AT&T U-verse Movies,MOVIES,HD,Linear,NO,National,YES,YES,YES,YES,YES
+201,News Multiview,,APP,APP,NO,National,YES,YES,YES,YES,YES
+202,CNN,CNN,SD,Linear,NO,National,,YES,YES,YES,YES
+203,CNN Headline News,HLN,SD,Linear,NO,National,,YES,YES,YES,YES
+205,CNN International,CNNI,SD,Linear,NO,National,,,,YES,YES
+210,Fox News Channel,FNC,SD,Linear,NO,National,,,YES,YES,YES
+211,Fox Business Network,FBN,SD,Linear,NO,National,,,YES,YES,YES
+215,MSNBC,msnbc,SD,Linear,NO,National,,YES,YES,YES,YES
+216,CNBC,CNBC,SD,Linear,NO,National,YES,YES,YES,YES,YES
+217,CNBC World,CNBCW,SD,Linear,NO,National,,,,YES,YES
+218,CNBC Application,,APP,APP,NO,National,YES,YES,YES,YES,YES
+222,Bloomberg TV,BLOOM,SD,Linear,NO,National,YES,,YES,YES,YES
+225,The Weather Channel,TWC,SD,Linear,NO,National,YES,YES,YES,YES,YES
+227,Weather On Demand MPF,,APP,APP,NO,National,YES,YES,YES,YES,YES
+228,BUY TV,BUY TV,SD,Linear,NO,National,YES,YES,YES,YES,YES
+230,C-SPAN,CSPAN1,SD,Linear,NO,National,YES,YES,YES,YES,YES
+231,C-SPAN 2,CSPAN2,SD,Linear,NO,National,YES,YES,YES,YES,YES
+232,C-SPAN 3,CSPAN3,SD,Linear,NO,National,YES,,YES,YES,YES
+243,ABC News Now,ABCNN,SD,Linear,NO,National,,YES,YES,YES,YES
+247,BuyIt2,BUYIT2,SD,Linear,NO,National,YES,YES,YES,YES,YES
+250,TLC,TLC,SD,Linear,NO,National,,YES,YES,YES,YES
+252,Animal Planet,APL,SD,Linear,NO,National,YES,YES,YES,YES,YES
+254,Travel Channel,TRVL,SD,Linear,NO,National,,YES,YES,YES,YES
+256,History,HIST,SD,Linear,NO,National,YES,YES,YES,YES,YES
+257,H2,H2,SD,Linear,NO,National,,,YES,YES,YES
+258,Science,SCI,SD,Linear,NO,National,YES,YES,YES,YES,YES
+259,Military Channel,MIL,SD,Linear,NO,National,,,YES,YES,YES
+260,Investigation Discovery,ID,SD,Linear,NO,National,,,,YES,YES
+264,NASA TV,NASA,SD,Linear,NO,National,,,,YES,YES
+265,National Geographic Channel,NGC,SD,Linear,NO,National,YES,YES,YES,YES,YES
+266,Nat Geo WILD,NGW,SD,Linear,NO,National,,,YES,YES,YES
+272,BIO,BIO,SD,Linear,NO,National,,,YES,YES,YES
+276,Military History Channel,MHC,SD,Linear,NO,National,,,YES,YES,YES
+297,Amex-Explore Play Learn,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+300,AT&T U-verse Buzz,BUZZ,HD,Linear,NO,National,YES,YES,YES,YES,YES
+301,Kids Multiview,,APP,APP,NO,National,YES,YES,YES,YES,YES
+302,Disney Channel,DIS,SD,Linear,NO,National,YES,YES,YES,YES,YES
+304,Disney XD,DISXD,SD,Linear,NO,National,YES,YES,YES,YES,YES
+314,Nickelodeon,NICK,SD,Linear,NO,National,YES,YES,YES,YES,YES
+316,Nick2,NICK2,SD,Linear,NO,National,YES,YES,YES,YES,YES
+318,Nicktoons,NKTN,SD,Linear,NO,National,YES,,YES,YES,YES
+320,Nick Jr.,NKJR,SD,Linear,NO,National,YES,YES,YES,YES,YES
+322,TeenNick,TNCK,SD,Linear,NO,National,YES,YES,YES,YES,YES
+325,Cartoon Network,TOON,SD,Linear,NO,National,,YES,YES,YES,YES
+326,Cartoon Network - West,TOON-W,SD,Linear,NO,National,,YES,YES,YES,YES
+327,Boomerang,BOOM,SD,Linear,NO,National,YES,,YES,YES,YES
+328,qubo,qubo,SD,Linear,NO,National,YES,,,YES,YES
+335,The Hub,HUB,SD,Linear,NO,National,YES,,YES,YES,YES
+337,PBS KIDS Sprout,SPROUT,SD,Linear,NO,National,YES,,,YES,YES
+340,Smile of a Child TV,SMILE,SD,Linear,NO,National,YES,YES,YES,YES,YES
+360,Lifetime,LIFE,SD,Linear,NO,National,,YES,YES,YES,YES
+362,LMN,LMN,SD,Linear,NO,National,,,YES,YES,YES
+364,Lifetime Real Women,LRW,SD,Linear,NO,National,,,,,YES
+365,SOAPnet,SOAP,SD,Linear,NO,National,,YES,YES,YES,YES
+367,tvMall,tvMall,SD,Linear,NO,National,YES,YES,YES,YES,YES
+368,Oxygen,OXGN,SD,Linear,NO,National,,YES,YES,YES,YES
+372,WE,WE,SD,Linear,NO,National,,,YES,YES,YES
+380,Style Network,STYLE,SD,Linear,NO,National,,,YES,YES,YES
+385,Ovation,OVA,SD,Linear,NO,National,,,,YES,YES
+399,AT&T U-verse Shopping 3,USHOP3,SD,Linear,NO,National,YES,YES,YES,YES,YES
+400,Customer Notification,ATTN,HD,Linear,NO,National,YES,YES,YES,YES,YES
+401,All About U-verse Interactive Channel,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+411,Help on Demand (VoD),VIDEO,Non-Stnd,VOD,NO,National,YES,YES,YES,YES,YES
+412,Shopping Multiview,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+420,QVC,QVC,SD,Linear,NO,National,YES,YES,YES,YES,YES
+422,HSN,HSN,SD,Linear,NO,National,YES,YES,YES,YES,YES
+423,HSN Shop By Remote,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+424,ShopNBC,SHPNBC,SD,Linear,NO,National,YES,YES,YES,YES,YES
+428,Jewelry TV,JWLTV,SD,Linear,NO,National,YES,YES,YES,YES,YES
+429,AT&T U-verse Shopping 4,USHOP4,SD,Linear,NO,National,YES,YES,YES,YES,YES
+450,HGTV,HGTV,SD,Linear,NO,National,YES,YES,YES,YES,YES
+452,Food Network,FOOD,SD,Linear,NO,National,YES,YES,YES,YES,YES
+454,DIY Network,DIY,SD,Linear,NO,National,YES,,YES,YES,YES
+456,Cooking Channel,COOK,SD,Linear,NO,National,,,YES,YES,YES
+457,Food Network Application,,APP,APP,NO,National,YES,YES,YES,YES,YES
+465,Destination America,DAM,SD,Linear,NO,National,,,,YES,YES
+466,Discovery Fit & Health,DFH,SD,Linear,NO,National,YES,,,YES,YES
+468,ION Life,ION L,SD,Linear,NO,National,,,,YES,YES
+470,Wealth TV,WEALTH,SD,Linear,NO,National,,,YES,YES,YES
+471,tvMall,tvMall,SD,Dual,NO,National,YES,YES,YES,YES,YES
+500,MC Music Choice,,APP,APP,NO,National,YES,YES,YES,YES,YES
+501,SWRV,SWRV,SD,Linear,NO,National,YES,YES,YES,YES,YES
+502,MTV,MTV,SD,Linear,NO,National,,YES,YES,YES,YES
+504,MTV2,MTV2,SD,Linear,NO,National,,YES,YES,YES,YES
+506,Tr3s,TR3S,SD,Dual,NO,National,,,,YES,YES
+508,MTV Jams,MTVJ,SD,Linear,NO,National,,,,YES,YES
+509,MTV Hits,MTVH,SD,Linear,NO,National,,,,YES,YES
+510,mtvU,MTVU,SD,Linear,NO,National,,,,YES,YES
+515,Centric,CENTRC,SD,Linear,NO,National,,,YES,YES,YES
+516,BET Gospel,BETG,SD,Linear,NO,National,,,,YES,YES
+518,VH1,VH1,SD,Linear,NO,National,,YES,YES,YES,YES
+520,VH1 Classic,VH1C,SD,Linear,NO,National,,,YES,YES,YES
+522,VH1 Soul,VH1S,SD,Linear,NO,National,,,,YES,YES
+525,CMT,CMT,SD,Linear,NO,National,YES,YES,YES,YES,YES
+527,CMT Pure Country,CMT PC,SD,Linear,NO,National,YES,,,YES,YES
+529,GAC,GAC,SD,Linear,NO,National,,,YES,YES,YES
+535,fuse,FUSE,SD,Linear,NO,National,,,YES,YES,YES
+536,Fuel,FUEL,SD,Linear,NO,National,,,YES,YES,YES
+560,TBN,TBN,SD,Linear,NO,National,YES,YES,YES,YES,YES
+562,EWTN,EWTN,SD,Linear,NO,National,YES,YES,YES,YES,YES
+563,Daystar,DAYSTR,SD,Linear,NO,National,YES,YES,YES,YES,YES
+564,INSP,INSP,SD,Linear,NO,National,YES,YES,YES,YES,YES
+565,The Church Channel,TCC,SD,Linear,NO,National,YES,YES,YES,YES,YES
+566,FamilyNet,FAMNET,SD,Linear,NO,National,YES,YES,YES,YES,YES
+567,BYU,BYU,SD,Linear,NO,National,YES,YES,YES,YES,YES
+570,JCTV,JCTV,SD,Linear,NO,National,YES,YES,YES,YES,YES
+575,The Word Network,WORD,SD,Linear,NO,National,YES,YES,YES,YES,YES
+578,World Harvest Television,WHT,SD,Linear,NO,National,YES,YES,YES,YES,YES
+580,FAITH,FAITH,SD,Linear,NO,National,YES,YES,YES,YES,YES
+600,AT&T U-verse Sports,SPORTS,HD,Linear,NO,National,YES,YES,YES,YES,YES
+601,Sports Multiview,,APP,APP,NO,National,YES,YES,YES,YES,YES
+602,ESPN,ESPN,SD,Linear,YES,National,,YES,YES,YES,YES
+603,ESPN Classic,ECL,SD,Linear,YES,National,,YES,YES,YES,YES
+604,ESPNEWS,ESN,SD,Linear,YES,National,,YES,YES,YES,YES
+605,ESPNU,ESPU,SD,Linear,YES,National,,YES,YES,YES,YES
+606,ESPN2,ESPN2,SD,Linear,YES,National,,YES,YES,YES,YES
+609,Longhorn Network,LHN,SD,Linear,YES,National,,YES,YES,YES,YES
+620,ESPN GamePlan Multiview,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+621,ESPN Full Court Multiview 2012,APP,APP,APP,NO,National,,,,,
+630,NFL Network,NFLNet,SD,Linear,YES,National,,,YES,YES,YES
+632,NBA TV,NBA,SD,Linear,YES,National,,,,YES,YES
+634,MLB Network,MLB,SD,Linear,YES,National,,,,YES,YES
+640,NBC Sports Network,NBCSPT,SD,Linear,YES,National,,,YES,YES,YES
+641,Golf Channel,GOLF,SD,Linear,NO,National,,,YES,YES,YES
+642,Sportsman Channel,SPMN,SD,Linear,NO,National,,,,,YES
+643,CBS Sports Network,CBSSN,SD,Linear,YES,National,,,,,YES
+647,Fox College Sports - Atlantic,FCSA,SD,Linear,YES,National,,,,,YES
+648,Fox College Sports - Central,FCSC,SD,Linear,YES,National,,,,,YES
+649,Fox College Sports - Pacific,FCSP,SD,Linear,YES,National,,,,,YES
+650,BTN,BTN,SD,Linear,YES,National,,YES,YES,YES,YES
+652,Speed Channel,SPEED,SD,Linear,YES,National,,YES,YES,YES,YES
+654,Fox Soccer,FS,SD,Linear,YES,National,,,YES,YES,YES
+655,FOX Deportes,FOXDEP,SD,Dual,YES,National,,,,,YES
+656,GolTV,GOL TV,SD,Linear,NO,National,,,,,YES
+658,Univision Deportes,UNIDEP,SD,Linear,YES,National,,,,YES,YES
+660,The Tennis Channel,TENNIS,SD,Linear,NO,National,,,,YES,YES
+670,TVG Network,TVG,SD,Linear,NO,National,,,,,YES
+672,HRTV,HRTV,SD,Linear,NO,National,,,,,YES
+680,Outdoor Channel,OUT,SD,Linear,YES,National,,,,,YES
+702,YES Network,YES,SD,Linear,YES,National,,,,,YES
+704,SportsNet New York,SNNY,SD,Linear,YES,National,,,,,YES
+735,SportsTime Ohio,STO,SD,Linear,YES,National,,,,,YES
+753,FSN Southwest - Dallas,FSSW-D,SD,Linear,YES,National,,YES,YES,YES,YES
+755,FSN Southwest - Houston,FSSW-H,SD,Linear,YES,National,,YES,YES,YES,YES
+756,FSN Southwest - San Antonio,FSSW-S,SD,Linear,YES,National,,YES,YES,YES,YES
+790,TCM,TCM,SD,Linear,NO,National,,,YES,YES,YES
+792,Fox Movie Channel,FMC,SD,Linear,NO,National,,,,YES,YES
+795,AMC,AMC,SD,Linear,NO,National,,YES,YES,YES,YES
+797,IFC,IFC,SD,Linear,NO,National,,,YES,YES,YES
+798,Sundance Channel,SUND,SD,Linear,NO,National,,,YES,YES,YES
+799,ReelzChannel,REELZ,SD,Linear,NO,National,,,,YES,YES
+800,U-verse Showcase,UVSHOW,HD,Linear,NO,National,YES,YES,YES,YES,YES
+802,HBO,HBO,SD,Linear,NO,National,,,,,YES
+803,HBO - West,HBO-W,SD,Linear,NO,National,,,,,YES
+804,HBO2,HBO2,SD,Linear,NO,National,,,,,YES
+805,HBO2 - West,HBO2-W,SD,Linear,NO,National,,,,,YES
+806,HBO Family,HBOFAM,SD,Linear,NO,National,,,,,YES
+807,HBO Family - West,HBOF-W,SD,Linear,NO,National,,,,,YES
+808,HBO Signature,HBOSIG,SD,Linear,NO,National,,,,,YES
+809,HBO Signature - West,HBOS-W,SD,Linear,NO,National,,,,,YES
+810,HBO Comedy,HBOCOM,SD,Linear,NO,National,,,,,YES
+811,HBO Comedy - West,HBOC-W,SD,Linear,NO,National,,,,,YES
+812,HBO Zone,HBOZNE,SD,Linear,NO,National,,,,,YES
+813,HBO Zone - West,HBOZ-W,SD,Linear,NO,National,,,,,YES
+814,HBO Latino,HBOLAT,SD,Linear,NO,National,,,,,YES
+815,HBO Latino - West,HBOL-W,SD,Linear,NO,National,,,,,YES
+832,Cinemax,MAX,SD,Linear,NO,National,,,,,YES
+833,Cinemax - West,MAX-W,SD,Linear,NO,National,,,,,YES
+834,MoreMAX,MORMAX,SD,Linear,NO,National,,,,,YES
+835,MoreMAX - West,MORM-W,SD,Linear,NO,National,,,,,YES
+836,ActionMAX,ACTMAX,SD,Linear,NO,National,,,,,YES
+837,ActionMAX - West,ACTM-W,SD,Linear,NO,National,,,,,YES
+838,ThrillerMAX,THRMAX,SD,Linear,NO,National,,,,,YES
+839,ThrillerMAX - West,THRM-W,SD,Linear,NO,National,,,,,YES
+840,5StarMAX,5STAR,SD,Linear,NO,National,,,,,YES
+842,WMAX,WMAX,SD,Linear,NO,National,,,,,YES
+844,OuterMAX,OUTMAX,SD,Linear,NO,National,,,,,YES
+846,@MAX,ATMAX,SD,Linear,NO,National,,,,,YES
+852,Showtime,SHO,SD,Linear,NO,National,,,,YES,YES
+853,Showtime - West,SHO-W,SD,Linear,NO,National,,,,YES,YES
+854,Showtime Too,SHO2,SD,Linear,NO,National,,,,YES,YES
+855,Showtime Too - West,SHO2-W,SD,Linear,NO,National,,,,YES,YES
+856,Showtime Showcase,SHOCSE,SD,Linear,NO,National,,,,YES,YES
+857,Showtime Showcase - West,SHOCSW,SD,Linear,NO,National,,,,YES,YES
+858,Showtime Extreme,SHOEXT,SD,Linear,NO,National,,,,YES,YES
+859,Showtime Extreme - West,SHOEXW,SD,Linear,NO,National,,,,YES,YES
+860,Showtime Beyond,SHOBYD,SD,Linear,NO,National,,,,YES,YES
+862,Showtime Family Zone,SHOFAM,SD,Linear,NO,National,,,,YES,YES
+864,Showtime Next,SHONXT,SD,Linear,NO,National,,,,YES,YES
+866,Showtime Women,SHOWM,SD,Linear,NO,National,,,,YES,YES
+882,The Movie Channel,TMC,SD,Linear,NO,National,,,,YES,YES
+883,The Movie Channel - West,TMC-W,SD,Linear,NO,National,,,,YES,YES
+884,TMC Xtra,TMCXTR,SD,Linear,NO,National,,,,YES,YES
+885,TMC Xtra - West,TMCXTW,SD,Linear,NO,National,,,,YES,YES
+890,FLIX,FLIX,SD,Linear,NO,National,,,,YES,YES
+902,Starz,STRZ,SD,Linear,NO,National,,,,YES,YES
+903,Starz - West,STRZ-W,SD,Linear,NO,National,,,,YES,YES
+904,Starz Edge,STRZED,SD,Linear,NO,National,,,,YES,YES
+906,Starz inBlack,STRZBK,SD,Linear,NO,National,,,,YES,YES
+908,Starz Cinema,STRZCN,SD,Linear,NO,National,,,,YES,YES
+909,Starz Movieplex,MPLEX,SD,Linear,NO,National,,,,YES,YES
+910,Starz Comedy,STRZCM,SD,Linear,NO,National,,,,YES,YES
+912,Starz Kids & Family,STRZKF,SD,Linear,NO,National,,,,YES,YES
+914,IndiePlex,INDIE,SD,Linear,NO,National,,,,YES,YES
+916,RetroPlex,RETRO,SD,Linear,NO,National,,,,YES,YES
+932,Encore,ENC,SD,Linear,NO,National,,,,YES,YES
+933,Encore - West,ENC-W,SD,Linear,NO,National,,,,YES,YES
+934,Encore Love,ENCLOV,SD,Linear,NO,National,,,,YES,YES
+936,Encore Suspense,ENCSUS,SD,Linear,NO,National,,,,YES,YES
+938,Encore Action,ENCACT,SD,Linear,NO,National,,,,YES,YES
+940,Encore Westerns,ENCWES,SD,Linear,NO,National,,,,YES,YES
+942,Encore Drama,ENCDRA,SD,Linear,NO,National,,,,YES,YES
+943,Encore Espanol,ENC ES,SD,Linear,NO,National,,,,YES,YES
+944,Encore Family,ENCFAM,SD,Linear,NO,National,,,,YES,YES
+945,AT&T U-verse Movies,MOVIES,HD,Dual,NO,National,YES,YES,YES,YES,YES
+952,Playboy TV,PLBY,SD,Dual,NO,National,,,,,
+954,Playboy TV en Espanol,PLBYSI,SD,Dual,NO,National,,,,,
+960,AT&T U-verse Movies,MOVIES,HD,Dual,NO,National,YES,YES,YES,YES,YES
+961,AT&T U-verse Buzz,BUZZ,HD,Dual,NO,National,YES,YES,YES,YES,YES
+962,Customer Notification,ATTN,HD,Dual,NO,National,YES,YES,YES,YES,YES
+963,AT&T U-verse Sports,SPORTS,HD,Dual,NO,National,YES,YES,YES,YES,YES
+964,U-verse Showcase,UVSHOW,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1000,AT&T U-verse Buzz,BUZZ,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1002,KCWX-HD-2 (MY NETWORK TV),KCWXHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1004,WOAI-HD-4 (NBC),WOAIHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1005,KENS-HD-5 (CBS),KENSHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1006,HSN HD,HSN HD,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1008,KWEX-HD-8 (UNI),KWEXHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1009,KLRN-HD-9 (PBS),KLRNHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1011,QVC HD,QVC HD,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1012,KSAT-HD-12 (ABC),KSATHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1017,KNIC-HD-17 (TF),KNICHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1026,KPXL-HD-26 (ION),KPXLHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1029,KABB-HD-29 (FOX),KABBHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1035,KMYS-HD-35 (THE CW),KMYSHD,HD,Linear,NO,Local,YES,YES,YES,YES,YES
+1037,As Seen On TV,ASO TV,SD,Dual,NO,National,YES,YES,YES,YES,YES
+1082,Valu TV,ValuTV,SD,Dual,NO,National,YES,YES,YES,YES,YES
+1084,AT&T U-verse Shopping 1,USHOP1,SD,Dual,NO,National,YES,YES,YES,YES,YES
+1100,Customer Notification,ATTN,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1101,AT&T Pay Per View Schedule,PPVSCH,IMAGE,Dual,NO,National,YES,YES,YES,YES,YES
+1102,AT&T Pay Per View Events in HD,PPVHD,HD,PPV,NO,National,,,,,
+1104,Velocity HD,VELOC,HD,Linear,NO,National,,YES,YES,YES,YES
+1105,Universal HD,UNIHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1106,AXS TV,AXS TV,HD,Linear,YES,National,,YES,YES,YES,YES
+1107,HDNet Movies,HDMOV,HD,Linear,NO,National,,,,,
+1108,TNT HD,TNTHD,HD,Linear,YES,National,,YES,YES,YES,YES
+1109,TNT HD - West,TNTHDW,HD,Linear,YES,National,,YES,YES,YES,YES
+1112,TBS HD,TBS HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1113,TBS HD - West,TBSHDW,HD,Linear,YES,National,,YES,YES,YES,YES
+1116,MGM HD,MGM HD,HD,Linear,NO,National,,,,,
+1118,Smithsonian Channel HD,SMTHHD,HD,Linear,NO,National,,,,YES,YES
+1120,Discovery Channel HD,DSC HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1124,USA Network HD,USA HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1128,FX Network HD,FX HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1132,A&E HD,A&E HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1134,E! Entertainment HD,E! HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1138,TV Land HD,TVLDHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1140,Comedy Central HD,COM HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1145,Spike TV HD,SPKEHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1149,G4 HD,G4 HD,HD,Linear,NO,National,,,YES,YES,YES
+1151,Syfy HD,SyfyHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1155,BET (Black Entertainment Television) HD,BET HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1157,TV One HD,TV1 HD,HD,Linear,NO,National,,,YES,YES,YES
+1163,Crime & Investigation HD,C&I HD,HD,Linear,NO,National,,,YES,YES,YES
+1164,truTV HD,TRU HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1170,OWN: Oprah Winfrey Network HD,OWN HD,HD,Linear,NO,National,,,YES,YES,YES
+1173,GSN - Game Show Network HD,GSN HD,HD,Linear,NO,National,,,YES,YES,YES
+1178,ABC Family Channel HD,FAM HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1180,WGN America HD,WGN HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1181,Bravo HD,BRAVHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1200,AT&T U-verse Movies,MOVIES,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1201,News HD Multiview,,APP,APP,NO,National,YES,YES,YES,YES,YES
+1202,CNN HD,CNN HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1203,CNN Headline News HD,HLN HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1210,Fox News Channel HD,FNC HD,HD,Linear,NO,National,,,YES,YES,YES
+1211,Fox Business Network HD,FBN HD,HD,Linear,NO,National,,,YES,YES,YES
+1215,msnbc HD,mnbcHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1216,CNBC HD,CNBCHD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1218,CNBC Application,,APP,APP,NO,National,YES,YES,YES,YES,YES
+1225,The Weather Channel HD,TWC HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1250,TLC HD,TLC HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1252,Animal Planet HD,APL HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1254,Travel Channel HD,TRVLHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1256,History HD,HISTHD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1257,H2 HD,H2 HD,HD,Linear,NO,National,,,YES,YES,YES
+1258,Science HD,SCI HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1260,Investigation Discovery HD,ID HD,HD,Linear,NO,National,,,,YES,YES
+1265,National Geographic Channel HD,NGC HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1266,Nat Geo WILD HD,NGW HD,HD,Linear,NO,National,,,YES,YES,YES
+1272,BIO HD,BIO HD,HD,Linear,NO,National,,,YES,YES,YES
+1300,AT&T U-verse Buzz,BUZZ,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1301,Kids HD Multiview,,APP,APP,NO,National,YES,YES,YES,YES,YES
+1302,Disney Channel HD,DIS HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1304,Disney XD HD,DXDHD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1314,Nickelodeon HD,NICKHD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1325,Cartoon Network HD,TOONHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1326,Cartoon Network HD - West,TOONHW,HD,Linear,NO,National,,YES,YES,YES,YES
+1335,The Hub HD,HUBHD,HD,Linear,NO,National,YES,,YES,YES,YES
+1360,Lifetime Television HD,LIFEHD,HD,Linear,NO,National,,YES,YES,YES,YES
+1362,LMN HD,LMNHD,HD,Linear,NO,National,,,YES,YES,YES
+1367,tvMall,tvMall,SD,Dual,NO,National,YES,YES,YES,YES,YES
+1380,Style Network HD,STYLEH,HD,Linear,NO,National,,,YES,YES,YES
+1401,All About U-verse Interactive Application,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+1412,Shopping Multiview,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+1420,QVC HD,QVC HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1422,HSN HD,HSN HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1423,HSN Shop By Remote,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+1428,Jewelry TV,JWLTV,SD,Dual,NO,National,YES,YES,YES,YES,YES
+1450,HGTV HD,HGTVHD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1452,Food Network HD,FOODHD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1454,DIY Network (Do-It-Yourself Network) HD,DIY HD,HD,Linear,NO,National,YES,,YES,YES,YES
+1456,Cooking Channel HD,COOKHD,HD,Linear,NO,National,,,YES,YES,YES
+1457,Food Network Application,,APP,APP,NO,National,YES,YES,YES,YES,YES
+1465,Destination America HD,DAM HD,HD,Linear,NO,National,,,,YES,YES
+1470,Wealth TV HD,WLTHHD,HD,Linear,NO,National,,,YES,YES,YES
+1471,tvMall,tvMall,SD,Dual,NO,National,YES,YES,YES,YES,YES
+1484,FUNimation Channel HD,FUN HD,HD,Linear,NO,National,,,,,
+1490,Havoc TV HD,HAV HD,HD,Linear,NO,National,,,,,
+1492,Halogen HD,HALOHD,HD,Linear,NO,National,,,,,
+1500,MC Music Choice,,APP,Dual,NO,National,YES,YES,YES,YES,YES
+1501,SWRV HD,SWRVHD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1502,MTV (Music Television) HD,MTV HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1504,MTV2 HD,MTV2HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1505,Palladia,PLDHD,HD,Linear,NO,National,,,,,
+1518,VH1 HD,VH1 HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1525,CMT (Country Music Television) HD,CMT HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1535,fuse HD,FUSEHD,HD,Linear,NO,National,,,YES,YES,YES
+1560,TBN HD,TBN HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1567,BYU HD,BYU HD,HD,Linear,NO,National,YES,YES,YES,YES,YES
+1600,AT&T U-verse Sports,SPORTS,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1601,Sports HD Multiview,,APP,APP,NO,National,YES,YES,YES,YES,YES
+1602,ESPN HD,ESPNHD,HD,Linear,YES,National,,YES,YES,YES,YES
+1604,ESPNews HD,ESN HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1605,ESPNU HD,ESNUHD,HD,Linear,YES,National,,YES,YES,YES,YES
+1606,ESPN2 HD,ESPNH2,HD,Linear,YES,National,,YES,YES,YES,YES
+1609,Longhorn Network HD,LHN HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1629,NFL RedZone HD,NFL RZ,HD,Linear,NO,National,,,,,
+1630,NFL Network HD,NFLHD,HD,Linear,YES,National,,,YES,YES,YES
+1632,NBA TV HD,NBA HD,HD,Linear,YES,National,,,,YES,YES
+1634,MLB Network HD,MLB HD,HD,Linear,YES,National,,,,YES,YES
+1640,NBC Sports Network HD,NBCSHD,HD,Linear,YES,National,,,YES,YES,YES
+1641,Golf HD,GOLFHD,HD,Linear,YES,National,,,YES,YES,YES
+1643,CBS Sports Network HD,CBSSHD,HD,Linear,YES,National,,,,,YES
+1650,BTN HD,BTN HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1652,Speed HD,SPD HD,HD,Linear,YES,National,,YES,YES,YES,YES
+1653,Fox Soccer Plus HD,FS+ HD,HD,Linear,YES,National,,,,,
+1654,Fox Soccer HD,FS HD,HD,Linear,YES,National,,,YES,YES,YES
+1656,GolTV HD,GOL HD,HD,Linear,YES,National,,,,,YES
+1658,Univision Deportes HD,UNIDHD,HD,Linear,YES,National,,,,YES,YES
+1660,The Tennis Channel HD,TENNHD,HD,Linear,NO,National,,,,YES,YES
+1679,World Fishing Network HD,WFN HD,HD,Linear,NO,National,,,,,
+1680,Outdoor Channel HD,OUT HD,HD,Linear,YES,National,,,,,YES
+1702,YES HD,YESHD,HD,Linear,YES,National,,,,,YES
+1714,Comcast SportsNet New England HD,CSNEHD,HD,Linear,YES,National,,,,,
+1720,FSN Florida HD,FSFLHD,HD,Linear,YES,National,,,,,
+1722,Sun Sports HD,SUN HD,HD,Linear,YES,National,,,,,
+1724,FSN South HD,FSSHD,HD,Linear,YES,National,,,,,
+1729,SportSouth HD,SPSOHD,HD,Linear,YES,National,,,,,
+1735,SportsTime Ohio HD,STO HD,HD,Linear,YES,National,,,,,YES
+1737,FSN Detroit HD,FSD HD,HD,Linear,YES,National,,,,,
+1741,Comcast SportsNet Chicago HD,CSN HD,HD,Linear,YES,National,,,,,
+1744,FSN Wisconsin HD,FSWIHD,HD,Linear,YES,National,,,,,
+1748,FSN Midwest - St Louis HD,FSMOHD,HD,Linear,YES,National,,,,,
+1753,FSN Southwest - Dallas HD,FSDAHD,HD,Linear,YES,National,,YES,YES,YES,YES
+1755,FSN Southwest - Houston HD,FSHOHD,HD,Linear,YES,National,,YES,YES,YES,YES
+1756,FSN Southwest - San Antonio HD,FSSAHD,HD,Linear,YES,National,,YES,YES,YES,YES
+1762,FSN Arizona HD,FSAZHD,HD,Linear,YES,National,,,,,
+1767,Comcast SportsNet California HD,CSCHD,HD,Linear,YES,National,,,,,
+1770,Comcast SportsNet Bay Area HD,CSBAHD,HD,Linear,YES,National,,,,,
+1772,FSN West HD,FSWHD,HD,Linear,YES,National,,,,,
+1774,FSN Prime Ticket HD,FSPTHD,HD,Linear,YES,National,,,,,
+1776,FSN San Diego HD,FSSDHD,HD,Linear,YES,National,,,,,
+1777,TWC SportsNet Los Angeles HD,TWCSHD,HD,Linear,YES,National,,,,,
+1789,SHORTS HD,SHRTHD,HD,Linear,NO,National,,,,,
+1790,Turner Classic Movies (TCM) HD,TCM HD,HD,Linear,NO,National,,,YES,YES,YES
+1791,Sony Movie Channel,SONYHD,HD,Linear,NO,National,,,,,
+1795,AMC HD,AMC HD,HD,Linear,NO,National,,YES,YES,YES,YES
+1799,ReelzChannel HD,RELZHD,HD,Linear,NO,National,,,,YES,YES
+1800,U-verse Showcase,UVSHOW,HD,Dual,NO,National,YES,YES,YES,YES,YES
+1802,HBO HD,HBO HD,HD,Linear,NO,National,,,,,YES
+1803,HBO HD - West,HBOHDW,HD,Linear,NO,National,,,,,YES
+1804,HBO2 HD,HBO2HD,HD,Linear,NO,National,,,,,YES
+1805,HBO2 HD - West,HBO2HW,HD,Linear,NO,National,,,,,YES
+1806,HBO Family HD,HBOFHD,HD,Linear,NO,National,,,,,YES
+1807,HBO Family HD - West,HBOFHW,HD,Linear,NO,National,,,,,YES
+1808,HBO Signature HD,HBOSHD,HD,Linear,NO,National,,,,,YES
+1809,HBO Signature HD - West,HBOSHW,HD,Linear,NO,National,,,,,YES
+1810,HBO Comedy HD,HBOCHD,HD,Linear,NO,National,,,,,YES
+1811,HBO Comedy HD - West,HBOCHW,HD,Linear,NO,National,,,,,YES
+1812,HBO Zone HD,HBOZHD,HD,Linear,NO,National,,,,,YES
+1813,HBO Zone HD - West,HBOZHW,HD,Linear,NO,National,,,,,YES
+1814,HBO Latino HD,HBOLHD,HD,Linear,NO,National,,,,,YES
+1815,HBO Latino HD - West,HBOLHW,HD,Linear,NO,National,,,,,YES
+1832,Cinemax HD,MAXHD,HD,Linear,NO,National,,,,,YES
+1833,Cinemax HD - West,MAXHDW,HD,Linear,NO,National,,,,,YES
+1834,MoreMax HD,MMAXHD,HD,Linear,NO,National,,,,,YES
+1835,MoreMAX HD - West,MMAXHW,HD,Linear,NO,National,,,,,YES
+1836,ActionMax HD,ACTMHD,HD,Linear,NO,National,,,,,YES
+1837,ActionMAX HD - West,ACTMHW,HD,Linear,NO,National,,,,,YES
+1838,ThrillerMax HD,TMAXHD,HD,Linear,NO,National,,,,,YES
+1839,ThrillerMAX HD - West,TMAXHW,HD,Linear,NO,National,,,,,YES
+1840,5StarMax HD,5MAXHD,HD,Linear,NO,National,,,,,YES
+1842,WMAX HD,WMAXHD,HD,Linear,NO,National,,,,,YES
+1844,OuterMax HD,OMAXHD,HD,Linear,NO,National,,,,,YES
+1846,ATMax HD,ATM HD,HD,Linear,NO,National,,,,,YES
+1852,Showtime HD,SHOHD,HD,Linear,NO,National,,,,YES,YES
+1853,Showtime HD - West,SHOHDW,HD,Linear,NO,National,,,,YES,YES
+1854,Showtime Too HD,SHO2HD,HD,Linear,NO,National,,,,YES,YES
+1855,Showtime Too HD - West,SH2HDW,HD,Linear,NO,National,,,,YES,YES
+1856,Showtime Showcase HD,SHOCHD,HD,Linear,NO,National,,,,YES,YES
+1857,Showtime Showcase HD - West,SHCHDW,HD,Linear,NO,National,,,,YES,YES
+1858,Showtime Extreme HD,SHOXHD,HD,Linear,NO,National,,,,YES,YES
+1859,Showtime Extreme HD - West,SHXHDW,HD,Linear,NO,National,,,,YES,YES
+1882,TMC HD,TMCHD,HD,Linear,NO,National,,,,YES,YES
+1883,The Movie Channel (TMC) HD - West,TMCHDW,HD,Linear,NO,National,,,,YES,YES
+1884,TMC Xtra HD,TMCXHD,HD,Linear,NO,National,,,,YES,YES
+1885,TMC Xtra HD - West,TMCXHW,HD,Linear,NO,National,,,,YES,YES
+1902,Starz HD,STZHD,HD,Linear,NO,National,,,,YES,YES
+1903,Starz HD - West,STZHDW,HD,Linear,NO,National,,,,YES,YES
+1904,Starz Edge HD,STZEHD,HD,Linear,NO,National,,,,YES,YES
+1910,Starz Comedy HD,STZCHD,HD,Linear,NO,National,,,,YES,YES
+1912,Starz Kids & Family HD,STZKHD,HD,Linear,NO,National,,,,YES,YES
+1932,Encore HD,ENCHD,HD,Linear,NO,National,,,,YES,YES
+2101,NBA League Pass Live Stats Application,,APP,APP,NO,National,,,,,
+2102,NBA League Pass Stats Central Application,,APP,APP,NO,National,,,,,
+2500,Customer Notification,ATTN,HD,Dual,NO,National,YES,YES,YES,YES,YES
+3001,Paquete Espanol Multiview,,APP,APP,NO,National,YES,YES,YES,YES,YES
+3002,KWEX-8 (UNI),KWEX,SD,Dual,NO,Local,YES,YES,YES,YES,YES
+3003,Galavision,GALA,SD,Linear,NO,National,,,YES,YES,YES
+3005,KNIC-17 (TF),KNIC,SD,Dual,NO,Local,YES,YES,YES,YES,YES
+3007,KVDA-60 (TEL),KVDA,SD,Dual,NO,Local,YES,YES,YES,YES,YES
+3008,MEGA TV,MEGATV,SD,Linear,NO,National,,,,,
+3009,mun2,MUN2,SD,Linear,NO,National,,,YES,YES,YES
+3011,Once Mexico,ONCEMX,SD,Linear,NO,National,,,,,
+3013,WAPA America,WAPA,SD,Linear,NO,National,,,,,
+3015,V-me,V-ME,SD,Linear,NO,National,,,,,
+3016,tlnovelas,TLNOV,SD,Dual,NO,National,,,,,
+3017,Latele Novela,LN,SD,Linear,NO,National,,,,,
+3018,Pasiones,PASIO,SD,Linear,NO,National,,,,,
+3019,KVDF-31 (AZTECA),KVDF,SD,Dual,NO,Local,YES,YES,YES,YES,YES
+3020,Azteca Mexico,AZAMEX,SD,Linear,NO,National,,,,,
+3022,Canal 22,CNL22,SD,Linear,NO,National
+3024,Estrella,ESTLLA,SD,Linear,NO,National
+3026,TV Colombia,TVCOLO,SD,Linear,NO,National
+3029,Television Espanola,TVESP,SD,Linear,NO,National
+3032,TV Chile,TVCHLE,SD,Linear,NO,National
+3035,Telefe Internacional,TELINT,SD,Linear,NO,National
+3041,Teleamazonas Internacional,TELAMZ,SD,Linear,NO,National
+3044,Centroamerica TV,CENTRO,SD,Linear,NO,National
+3046,Latinoam»rica TV ,LTV,SD,Linear,NO,National
+3047,Television Dominicana,TVDOM,SD,Linear,NO,National
+3049,Utilisima,UTILMA,SD,Linear,NO,National
+3052,Disney XD en Espanol,DXDES,SD,Linear,NO,National
+3053,Boomerang en Espanol,BOOME,SD,Linear,NO,National
+3055,HITN,HITN,SD,Linear,NO,National
+3056,La Familia Cosmovision,LAFAM,SD,Linear,NO,National
+3058,V-me Kids,VMEKDS,SD,Linear,NO,National
+3061,qubo,qubo,SD,Dual,NO,National,YES,,,YES,YES
+3065,Multimedios,MULMED,SD,Linear,NO,National,,,,,
+3067,CBTV Michoacan,CBTVMN,SD,Linear,NO,National,,,,,
+3077,EWTN Espanol,EWTNES,SD,Linear,NO,National,YES,YES,YES,YES,YES
+3078,TBN Enlace,TBNENL,SD,Linear,NO,National,,,,,
+3101,Nat Geo Mundo,NGC-MN,SD,Linear,NO,National,,,,,
+3102,Discovery en Espanol,DSC-ES,SD,Linear,NO,National,,,,,
+3103,Discovery Familia,DFAM,SD,Linear,NO,National,,,,,
+3104,History en Espanol,HISTES,SD,Linear,NO,National,,,,,
+3110,CNN en Espanol,CNNE,SD,Linear,NO,National,,,,,
+3111,SUR,SUR,SD,Linear,NO,National,,,,,
+3113,ESPN Deportes,DEP,SD,Linear,YES,National,,,,,YES
+3114,FOX Deportes,FOXDEP,SD,Linear,YES,National,,,,,YES
+3115,GolTV,GOL TV,SD,Dual,NO,National,,,,,YES
+3117,Univision Deportes,UNIDEP,SD,Dual,YES,National,,,,YES,YES
+3119,AyM Sports,AYMSpt,SD,Linear,NO,National,,,,,
+3126,Cinelatino,CINE,SD,Linear,NO,National,,,,,
+3128,De Pelicula,DEPEL,SD,Linear,NO,National,,,,,
+3129,De Pelicula Clasico,DEPELC,SD,Linear,NO,National,,,,,
+3132,Viendo Movies,VIENDO,SD,Linear,NO,National,,,,,
+3134,Cine Mexicano,CINEMX,SD,Linear,NO,National,,,,,
+3142,Tr3s,TR3S,SD,Linear,NO,National,,,,YES,YES
+3143,Telehit,TELEHT,SD,Linear,NO,National,,,,,
+3146,Bandamax,BANDMX,SD,Linear,NO,National,,,,,
+3149,Ritmoson Latino,RITLAT,SD,Linear,NO,National,,,,,
+3317,Univision Deportes HD,UNIDHD,HD,Dual,YES,National,,,,YES,YES
+3415,GolTV HD,GOL HD,HD,Dual,YES,National,,,,,YES
+3602,CCTV-9,CCTV-9,SD,Linear,NO,National,,,YES,YES,YES
+3603,CCTV-4,CCTV-4,SD,Linear,NO,National,,,,,
+3604,CTI-Zhong Tian,CTI ZT,SD,Linear,NO,National,,,,,
+3605,Phoenix InfoNews,PHNEWS,SD,Linear,NO,National,,,,,
+3606,Phoenix North America Chinese Channel,PHNACC,SD,Linear,NO,National,,,,,
+3631,ET-News,E-NWS,SD,Linear,NO,National
+3632,ET-Global,E-GBL,SD,Linear,NO,National
+3638,TVBe,TVBe,SD,Linear,NO,National
+3643,MBC America,MBC,SD,Linear,NO,National
+3662,Saigon Broadcasting Television Network,SBTN,SD,Linear,NO,National
+3664,TVB-V,TVBV,SD,Linear,NO,National
+3680,TV Japan,TV-JPN,SD,Linear,NO,National
+3682,The Filipino Channel,TFC,SD,Linear,NO,National
+3683,GMA Pinoy,GMA,SD,Linear,NO,National
+3690,VivaTV Plus,VIVA,SD,Linear,NO,National
+3702,Zee TV,ZEE TV,SD,Linear,NO,National
+3703,TV Asia,TVASIA,SD,Linear,NO,National
+3704,Sony Entertainment Television Asia (SET Asia),SET,SD,Linear,NO,National
+3706,STAR India PLUS,SPLUS,SD,Linear,NO,National
+3709,MTV India,MTVIND,SD,Linear,NO,National
+3712,aapka Colors,APCLR,SD,Linear,NO,National
+3732,Arabic Radio & Television,ART,SD,Linear,NO,National,,,,,
+3738,MTV ARABIA,MTVA,SD,Linear,NO,National,,,,,
+3802,Rai Italia,RAI,SD,Linear,NO,National,,,,,
+3832,TV5MONDE,TV5,SD,Linear,NO,National,,,,,
+3862,TV Polonia,TVP,SD,Linear,NO,National,,,,,
+3882,Channel One Russia,C1R,SD,Linear,NO,National,,,,,
+3883,RTR Planeta,RTR,SD,Linear,NO,National,,,,,
+3952,Playboy TV,PLBY,SD,Linear,NO,National,,,,,
+3954,Playboy TV en Espanol,PLBYSI,SD,Linear,NO,National,,,,,
+4400,ESPN GamePlan Multiview,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+4401,ESPN GamePlan 1,GP1,SD,Linear,YES,National,,,,,
+4402,ESPN GamePlan 2,GP2,SD,Linear,YES,National,,,,,
+4403,ESPN GamePlan 3,GP3,SD,Linear,YES,National,,,,,
+4404,ESPN GamePlan 4,GP4,SD,Linear,YES,National,,,,,
+4405,ESPN GamePlan 5,GP5,SD,Linear,YES,National,,,,,
+4406,ESPN GamePlan 6,GP6,SD,Linear,YES,National,,,,,
+4500,ESPN Full Court Multiview 2012,APP,APP,APP,NO,National,,,,,
+4501,ESPN Full Court 1,FC1,SD,Linear,YES,National,,,,,
+4502,ESPN Full Court 2,FC2,SD,Linear,YES,National,,,,,
+4503,ESPN Full Court 3,FC3,SD,Linear,YES,National,,,,,
+4504,ESPN Full Court 4,FC4,SD,Linear,YES,National,,,,,
+4505,ESPN Full Court 5,FC5,SD,Linear,YES,National,,,,,
+4506,ESPN Full Court 6,FC6,SD,Linear,YES,National,,,,,
+5100,SWRV,SWRV,SD,Dual,NO,National,YES,YES,YES,YES,YES
+5101,MC Hit List,MCHITS,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5102,MC Hip-Hop and R&B,MCHPRB,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5103,MC University,MCU,Music,Linear,NO,National,,YES,YES,YES,YES
+5104,MC Dance-Electronica,MCDAEI,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5105,MC Rap,MC RAP,Music,Linear,NO,National,,YES,YES,YES,YES
+5106,MC Hip-Hop Classics,MCHHCL,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5107,MC Throwback Jamz,MCTJAM,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5108,MC R&B Classics,MCRBCL,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5109,MC R&B Soul,MCRBSO,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5110,MC Gospel,MCGOSP,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5111,MC Reggae,MCREGA,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5112,MC Classic Rock,MCCLRK,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5113,MC Retro Rock,MCRERO,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5114,MC Rock,MCROCK,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5115,MC Metal,MCMETL,Music,Linear,NO,National,,YES,YES,YES,YES
+5116,MC Alternative,MC ALT,Music,Linear,NO,National,,YES,YES,YES,YES
+5117,MC Classic Alternative,MCCLAL,Music,Linear,NO,National,,YES,YES,YES,YES
+5118,MC Adult Alternative,MCAALT,Music,Linear,NO,National,,YES,YES,YES,YES
+5119,MC Soft Rock,MCSROC,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5120,MC Pop Hits,MCPHIT,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5121,MC 90s,MC 90S,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5122,MC 80s,MC 80S,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5123,MC 70s,MC 70S,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5124,MC Solid Gold Oldies,MCGOLD,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5125,MC Party Favorites,MCPRTY,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5126,MC Stage & Screen,MCSTSC,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5127,MC Kidz Only!,MCKIDZ,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5128,MC Toddler Tunes,MCTOTU,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5129,MC Todays Country,MCTCTY,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5130,MC True Country,MCTRCT,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5131,MC Classic Country,MCCLCT,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5132,MC Contemporary Christian,MCCHST,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5133,MC Sounds of the Seasons,MCSEAS,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5134,MC Soundscapes,MCSSCP,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5135,MC Smooth Jazz,MCSMJZ,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5136,MC Jazz,MCJAZZ,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5137,MC Blues,MCBLUE,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5138,MC Singers & Swing,MCSWNG,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5139,MC Easy Listening,MCEASY,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5140,MC Classical Masterpieces,MCCLMP,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5141,MC Light Classical,MCLCCS,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5142,MC Musica Urbana,MCURBA,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5143,MC Pop Latino,MCPOPL,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5144,MC Tropicales,MCTROP,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5145,MC Mexicana,MCMEXI,Music,Linear,NO,National,YES,YES,YES,YES,YES
+5146,MC Romances,MCROMA,Music,Linear,NO,National,YES,YES,YES,YES,YES
+9900,Phone Services,APP,APP,APP,NO,National,YES,YES,YES,YES,YES
+9910,Account Manager,,APP,APP,NO,National,YES,YES,YES,YES,YES
+9920,U-verse Message Channel,UMC,SD,Linear,NO,National,YES,YES,YES,YES,YES
+9925,Whats On Now Multiview,,APP,APP,NO,National,,,,,
