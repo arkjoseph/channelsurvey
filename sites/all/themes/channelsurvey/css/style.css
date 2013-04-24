@@ -92,7 +92,7 @@ label span {
 }
 /*These labels are used to create the unique label on the backend; hidden on the front end*/
 #webform-component-hd_channels label,
-#webform-component-general_interest label,
+#webform-component-general-interest label,
 #webform-component-sports label,
 #webform-component-international label,
 #webform-component-spanish label,
